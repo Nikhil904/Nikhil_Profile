@@ -4,5 +4,5 @@
 * 🌱 I’m currently learning new technology like Next.js, Node.js
 * 🤝 I’m looking to collaborate on Nikhil
 * 🤔 I’m looking for help with ...
-* 💬 Ask me about ... Nikj
+* 💬 Ask me about ... Nik
 * ⚡ Fun fact: ...
